@@ -9,8 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Setup a Subscription and a Resource in Azure for Beginner Labs](https://github.com/jacksonmalms/setup-azure-sub-and-resource)
   - [Create Virtual Machines Within Azure and Observe The Network Topology](https://github.com/jacksonmalms/create-azure-vm)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jacksonmalms/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacksonmalms/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jacksonmalms/configure-ad)
 
 <h2> Connect with me:</h2>
 
